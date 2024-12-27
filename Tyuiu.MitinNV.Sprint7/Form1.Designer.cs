@@ -202,7 +202,7 @@
             this.Controls.Add(this.txtBuildingNumber);
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "Form1";
-            this.Text = "Митин Никита | ИИПб-24-1 | Спринт #7";
+            this.Text = "Митин Никита | ИИПб-24-1 | Спринт #7 :)";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvApartments)).EndInit();
             this.ResumeLayout(false);
